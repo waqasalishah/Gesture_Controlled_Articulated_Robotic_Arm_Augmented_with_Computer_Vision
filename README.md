@@ -1,2 +1,2 @@
-# Articulated_Robotic_Arm_with_OAK-D_AI
+# Gesture_Controlled_Articulated_Robotic_Arm_Augmented_with_Computer_Vision
 This is robotic arm
