@@ -144,7 +144,7 @@ while True:
     r = Capture(0.1,time.time(),0)
     print("Confidance level "+str(r*100))
     
-    if r > 0.85:
+    if r > 0.70:
         all_rotation([-90, -10, -45])
     else:
         home()
